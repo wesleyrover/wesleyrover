@@ -1,4 +1,5 @@
 <h1 align="center">Olá, seja bem vindo(a), sou o Wesley Rover</h1>
+<h1 align="center">Hi, welcome, I'm Wesley Rover</h1>
 <h3 align="center">Formardo em Sistema de Informação</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wesleyrover&label=Profile%20views&color=0e75b6&style=flat" alt="wesleyrover" /> </p>
