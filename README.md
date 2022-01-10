@@ -8,9 +8,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Docker | Ansible | Terraform | Kubernetes | Packer
-- 🛢 &nbsp; Postgres | TimescaleDB
-- 🔧 &nbsp; Git | Markdown
+- 💻 &nbsp; 
+- 🛢 &nbsp; 
+- 🔧 &nbsp; 
 
 <br/>
 
