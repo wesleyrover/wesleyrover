@@ -19,6 +19,6 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/wesleyrover/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-wesley%rover?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/wesleyrover/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rafael%20Brito%20Gomes-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:wesleyrover@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-wesleyrover@gmail.com?style=flat-square&logo=gmail"></a>
 </p>
